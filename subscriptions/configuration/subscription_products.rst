@@ -43,6 +43,7 @@ internal reference.
      :alt: View of a subscription product form in Odoo Subscriptions
 
 .. important::
+
    Be sure to check out our documentation on how to create, edit and manage your own
    :doc:`Subscription templates <../../subscriptions/configuration/subscription_templates>`
    before creating your own subscription products. Once created, check out our documentation on how to
